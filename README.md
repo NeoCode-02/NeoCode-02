@@ -3,7 +3,7 @@
 ###  
 <br clear="both">
 
-<h6 align="left">Backend Developer | Focused on APIs, Databases, and Scalable Architectures</h6>
+<h4 align="left">Backend Developer | Focused on APIs, Databases, and Scalable Architectures</h4>
 
 ###  
 
