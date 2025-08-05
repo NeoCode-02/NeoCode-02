@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
@@ -47,12 +47,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -62,6 +58,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NeoCode-02/NeoCode-02/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeoCode-02/NeoCode-02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeoCode-02/NeoCode-02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NeoCode-02/NeoCode-02/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
